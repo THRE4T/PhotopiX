@@ -7,7 +7,7 @@
 
 - 🔭 You can see our work of [PhotopiX](https://photopixx.netlify.app/)
 
-- 📫 How to reach me **nabarhardik@gmail.com**
+- 📫 How to reach us **nabarhardik@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
