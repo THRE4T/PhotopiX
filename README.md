@@ -1,4 +1,4 @@
-# WD_PROJECT
+# PhotopiX
 
 <h1 align="center">Hi , We are Team Web Design</h1>
 <h3 align="center">A group of passionate and skilled individuals at web designing. We are working on our web design webpage project for final year.</h3>
