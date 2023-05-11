@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thre4t&label=Profile%20views&color=0e75b6&style=flat" alt="thre4t" /> </p>
 
-- 🔭 You can see our work of [PhotopiX](https://photopixx.netlify.app/)
+- 🔭 You can see our work at [PhotopiX](https://photopixx.netlify.app/)
 
 - 📫 How to reach us **nabarhardik@gmail.com**
 
